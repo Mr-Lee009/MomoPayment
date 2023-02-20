@@ -1,4 +1,4 @@
-package vn.edu.momo;
+package vn.edu.momo.controller;
 
 public class HomeController {
 }
