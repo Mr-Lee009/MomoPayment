@@ -5,8 +5,11 @@ public class HomeController {
 
     }
 
-
     public void B(){
+
+    }
+
+    public void C(){
 
     }
 }
